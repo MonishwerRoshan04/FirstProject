@@ -1,0 +1,46 @@
+_____REACT_____
+
+1.Babel - which is used to change the old js to new js version.
+2.JSX - javaScript Syntax (javaScript + XML)
+3.declarative programming
+
+___Process for Rect Installation___
+1.Node.js - it will automatically download NPM - Node Package Manager.
+2.visual studio - editor Tool.
+3.Chrome Web Store - for react developer tools Extension.
+4.Visual studio - Es7 react - extension
+5.visual studio - setting - emmet - javascript, javascriptreact
+6.visual studio - terminal - node -v
+7.npx create-react-app hello
+8.if any error occur while doing this process paste this lines one by one in terminal
+9.set-ExecutionPolicy RemoteSigned -Scope CurrentUser, Get-ExecutionPolicy, Get-ExecutionPolicy -list
+10.we set the app name must in small letters.
+11.cd hello, then type npm start
+12.if getting ./src/reportwebvitals.js then do next step
+13.npm i web-vitals --save-dev do this in terminal then,
+14.cd hello
+15.npm start now it will work.
+16.ctrl + c - to stop the running program.
+17.we can delete the vitals file and called methods also.
+18.if we need js value we must use curly brackets{}.
+19.objects and boolean are not valid inside the {}.
+
+___Functional Components___
+
+1.componen must be in capital letter first.
+2.for every component we need seperate file 
+3.Es7 react is used to get default template.
+4.Ctrl + alt + r - for snippet - type rafce.
+5.&copy; = copyright symbol.
+
+___Styles___
+1.style need to pass as object like let a = {color:"red"} - inline css
+2.attribute style={a} - inline css
+3.if we want to pass directly we use like style={{color:"red"}}
+
+___Events___
+1.<button onClick={handleclick}>handleClick</button>
+2.if we want to pass paremeter then we need to use anonymous function (function without name)
+3.e -event (summary)
+4.console.log(e.target); button
+5.<button onDoubleClick={() => handleclick4("vijay")}>handleClick</button>
