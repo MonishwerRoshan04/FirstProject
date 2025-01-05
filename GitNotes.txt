@@ -1,0 +1,35 @@
+_____GIT_____
+1.GIT - keeping track of code, version control, synchronise code.
+2.Host Repository - save all the code here.full mechanism provided by (to maintain repository github is used)
+3.git clone <url> - which is used to copy the current repository file to a local source.
+4.command prompt.
+5.git download.
+6.type git in cmd.
+7.git clone <url> example - https://github.com/MonishwerRoshan04/FirstProject.git.
+8.ls
+9.cd .\FirstProject\
+10.ls
+11.code . - to open the cloned repository file
+12.git add .\add.html - git waiting for the commit command to add the file in repository
+13.git status
+14.git commit -m "msg" - we have to tell what we done in the code.
+15.git status
+16.git push - here the local code send to the git repository
+17. if gets error while this process do the next steps
+18.git config --global user.email "monishwermona@gmail.com"
+19.git config --local user.name "MonishwerRoshan04"
+20.git config --list
+21. git commit -m "msg"
+22.git status
+23.git push
+
+
+
+
+
+
+
+
+
+
+
