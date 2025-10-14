@@ -1,0 +1,19 @@
+(12/10/2025)
+
+Js - Imperative
+React - Declarative
+
+1.to reduce developing process time.
+
+SETUP
+1.node.js
+2.visual studio code
+3.chrome web store (react dev tool)
+4.visual studio(ES7 + React) 
+5.File - Preference - settings - emmet - include language - key(javascript) value(javascriptreact)
+
+ctrl + ~ - for terminal
+1.node -v
+2.npx create-react-app firstproject
+3.cd firstproject
+4.npm start
