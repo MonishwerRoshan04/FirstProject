@@ -1,4 +1,4 @@
-(12/10/2025)
+(13/10/2025)
 
 Js - Imperative
 React - Declarative
@@ -17,3 +17,16 @@ ctrl + ~ - for terminal
 2.npx create-react-app firstproject
 3.cd firstproject
 4.npm start
+
+(15/10/2025)
+
+<P>{{a:3,b:2}}</P> - object and boolean can pass in jsx
+Ctrl + Alt + R - for ES7 + react extension need to use in components for default codes.
+rafce - key used to create arrow functions
+&copy; - for copyright symbol
+
+___Concepts___
+1.JSX
+2.Functional Components
+
+
