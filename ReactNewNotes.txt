@@ -25,8 +25,12 @@ Ctrl + Alt + R - for ES7 + react extension need to use in components for default
 rafce - key used to create arrow functions
 &copy; - for copyright symbol
 
+{} - Javascript expression
+
 ___Concepts___
 1.JSX
 2.Functional Components
+3.Applying Styles
+4.Click Events
 
 
